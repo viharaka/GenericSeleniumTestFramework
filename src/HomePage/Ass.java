@@ -6,7 +6,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-class Ass
+class Demo
 {
 	final static Logger logger = Logger.getLogger(A.class);
 	public static void main(String[] args) {
